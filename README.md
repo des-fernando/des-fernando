@@ -1,6 +1,6 @@
 # Welcome to my Github profile!
 
-### I'm currently pursuing an Associate Degree in Database, in a process of career migration, focused in Data Engineering and Data Science.
+### I'm currently pursuing an Associate Degree in Database, in a process of career migration, focused in Data Engineering.
 ---
 #### Programming languages and technologies that I use:
 <div display="inline">
