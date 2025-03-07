@@ -1,6 +1,6 @@
 # Welcome to my Github profile!
 
-### I'm currently pursuing an Associate Degree in Database, in a process of career migration, focused in Data Engineering.
+### I'm currently pursuing an Associate Degree in Database, on a process of career migration, focused in Data Engineering.
 
 ---
 
